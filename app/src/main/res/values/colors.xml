@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="japanese_color">#ffacb4</color>
+    <color name="math_color">#9bdaff</color>
+    <color name="english_color">#fae2aa</color>
+    <color name="science_color">#9bd9c7</color>
+    <color name="social_color">#ffdab2</color>
+    <color name="other_color">#e59bff</color>
+    <color name="string">#707070</color>
 </resources>

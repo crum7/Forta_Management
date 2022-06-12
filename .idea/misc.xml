@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/border.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/bottom_navigation_item_state.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/english.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/icon_clock_setting.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/japanese.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/kadomaru.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/math.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/other.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/science.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/socieal.xml" value="0.177" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/custom_spinner.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_kyouka_settei.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/fragment_login_ad.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/spinner_dropdown_item.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/bottom_navigation_item_state.xml" value="0.37447916666666664" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

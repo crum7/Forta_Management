@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/login">
+
+    <fragment
+        android:id="@+id/login"
+        android:name="com.example.management.login"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_login_to_login_ad"
+            app:destination="@id/login_ad" />
+    </fragment>
+    <fragment
+        android:id="@+id/login_ad"
+        android:name="com.example.management.login_ad"
+        android:label="fragment_login_ad"
+        tools:layout="@layout/fragment_login_ad" >
+        <action
+            android:id="@+id/action_login_ad_to_login"
+            app:destination="@id/login" />
+        <action
+            android:id="@+id/action_login_ad_to_kyouka_settei"
+            app:destination="@id/kyouka_settei" />
+    </fragment>
+    <fragment
+        android:id="@+id/kyouka_settei"
+        android:name="com.example.management.Kyouka_settei"
+        android:label="fragment_kyouka_settei"
+        tools:layout="@layout/fragment_kyouka_settei" />
+</navigation>

@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_web_client_id">153359492144-0dq8dgdsfsfgjtgqbk0jjehcd80kqbns.apps.googleusercontent.com</string>
+    <string name="月曜日">月曜日</string>
+    <string name="火曜日">火曜日</string>
+    <string name="水曜日">水曜日</string>
+    <string name="木曜日">木曜日</string>
+    <string name="金曜日">金曜日</string>
+    <string name="月曜日の時間割登録">月曜日の時間割登録</string>
+    <string name="_1限">1限</string>
+    <string name="_2限">2限</string>
+    <string name="_3限">3限</string>
+    <string name="_4限">4限</string>
+    <string name="_5限">5限</string>
+    <string name="_6限">6限</string>
+    <string name="放課後">放課後</string>
 </resources>

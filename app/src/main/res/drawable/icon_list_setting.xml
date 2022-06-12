@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--ここでwidth, heightを指定-->
+    <item
+        android:width="45sp"
+        android:height="45sp"
+        android:drawable="@drawable/list"/>
+</layer-list>
